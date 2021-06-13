@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **samithasan142/samithasan142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Hi 👋, I am Tasnimul Hasan Samit</h2>
+<h3 align="center">Programmer | Learner </h4>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=samithasan142&label=Profile%20views&color=red&style=flat-square"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"/></p>
+
+
+- 🌱 I’m currently learning **Web Development**
+
+- 💬 Ask me about **C, C++, Java**
