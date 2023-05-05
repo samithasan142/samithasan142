@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasan142&layout=compact"></p>
 
-- 🌱 I’m currently learning **Web Development**
-
+- 🔭 I’m currently working on **Machine Learning, Deep Learning**
+- 🌱 I love learning **Data Structures and Algorithm**
 - 💬 Ask me about **C, C++, Java**
+- 📫 How to reach me: samithasan2000@gmail.com
