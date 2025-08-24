@@ -27,6 +27,8 @@ My expertise covers Functional, UI, Integration, Black Box, Sanity, Regression, 
 
 Actively engaged in Agile processes, I participate in daily SCRUM meetings, sprint planning, and effort estimation. I work closely with developers, QA team members, and project managers to clarify requirements and resolve issues. I am committed to continuous learning and adopting new tools and practices to ensure exceptional product quality.
 
+**Skills:** Manual Testing (Functional, UI, Integration, Black Box, Sanity, Regression, Retesting, and Exploratory testing), API testing
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasan142&show_icons=true&locale=en&layout=compact"/></p> 
 
