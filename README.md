@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋, I am Tasnimul Hasan Samit</h2>
 <h3 align="center">Critical Thinker | Problem Solver | Tester</h3> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=samithasan142&label=Profile%20views&color=red&style=flat-square"> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasan142&layout=compact"></p>
+
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"></p> -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasan142&layout=compact"></p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasan142&show_icons=true&locale=en&layout=compact"/></p> 
 
-<br><br>
+<br>
 
 - 🔭 I’m currently working on **Manual and Automation Testing**
 - 📫 How to reach me: samithasan2000@gmail.com
