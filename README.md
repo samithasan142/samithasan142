@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasan142&layout=compact"></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en" alt="samithasan142" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasan142&show_icons=true&locale=en&layout=compact" alt="samithasan142" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasan142&show_icons=true&locale=en&layout=compact"/></p> 
 
-<br>
+<br><br>
 
 - 🔭 I’m currently working on **Manual and Automation Testing**
 - 📫 How to reach me: samithasan2000@gmail.com
