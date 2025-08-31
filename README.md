@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samithasan142&show_icons=true&locale=en"></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasan142&layout=compact"></p> -->
 
-I am a Software QA Engineer at Enosis Solutions with almost 2 years of experience, I am passionate about delivering high-quality software by leveraging my expertise in SDLC, STLC, Agile methodologies, and core SQA principles. I specialize in manual testing for web, desktop, mobile (Android & iOS), and VR applications (Meta Quest 2, Oculus Rift), with proven experience in writing and executing test cases, preparing test summary and closure reports, and tracking defects.
+I am a Software QA Engineer at Enosis Solutions with 2 years of experience, I am passionate about delivering high-quality software by leveraging my expertise in SDLC, STLC, Agile methodologies, and core SQA principles. I specialize in manual testing for web, desktop, mobile (Android & iOS), and VR applications (Meta Quest 2, Oculus Rift), with proven experience in writing and executing test cases, preparing test summary and closure reports, and tracking defects.
 
 My expertise covers Functional, UI, Integration, Black Box, Sanity, Regression, Retesting, and Exploratory testing, as well as API testing using tools like Postman and Insomnia. I am skilled in cross-browser/platform testing with LambdaTest, proficient in JIRA, Asana, and Azure Boards for defect management and test tracking, and experienced in applying SQL queries for accurate data validation and backend verification.
 
