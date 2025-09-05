@@ -36,6 +36,7 @@ Actively engaged in Agile processes, I participate in daily SCRUM meetings, spri
 
 - 🔭 I’m currently working on **Manual and Automation Testing**
 - 📫 How to reach me: samithasan2000@gmail.com
+- ⚡ Fun fact: **While there is code, there is BUG.** 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samithasan142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-tasnimul-hasan-samit/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@thsamit.cse) 
 
